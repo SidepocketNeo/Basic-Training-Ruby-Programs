@@ -21,7 +21,7 @@ NonCommercial — You may not use the material for commercial purposes.
 
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-The original program Sidepocket can be reached at E-Mail "Sidepocket@2600.nyc" or on Twitter/GitHub @SidpeocketNeo
+The original programer of this executable, Sidepocket, can be reached via E-Mail at "Sidepocket@2600.nyc" or on Twitter/GitHub @SidpeocketNeo
 
 Shout out to http://www.tutorialspoint.com/ and Derek Banas who helped me learning Ruby online!
 
